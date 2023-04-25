@@ -1,2 +1,4 @@
 ﻿  chap1.cpp
-  CHAP1.vcxproj -> C:\Users\ncc_admin\Desktop\C++\CHAP1\Debug\CHAP1.exe
+C:\Users\ncc_admin\Desktop\C++\CHAP1\CHAP1\chap1.cpp(15,7): error C2182: 'c': 'void' 형식을 잘못 사용했습니다.
+C:\Users\ncc_admin\Desktop\C++\CHAP1\CHAP1\chap1.cpp(15,14): error C2440: '초기화 중': 'const char [2]'에서 'int'(으)로 변환할 수 없습니다.
+C:\Users\ncc_admin\Desktop\C++\CHAP1\CHAP1\chap1.cpp(15,9): message : 이 변환이 가능한 컨텍스트가 없습니다.
