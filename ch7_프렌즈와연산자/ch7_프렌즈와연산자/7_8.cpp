@@ -1,5 +1,5 @@
 //단항 연산자 중복
-// 전위 연산자 
+// 전위 연산자 !op, ~op, ++op, --op
 //전위 ++ 연산자 중복
 #include <iostream>
 using namespace std;
