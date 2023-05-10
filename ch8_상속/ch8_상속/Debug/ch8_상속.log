@@ -1,0 +1,3 @@
+﻿  8_1.cpp
+C:\Users\ncc_admin\Desktop\C++\ch8_상속\ch8_상속\8_1.cpp(31,8): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+  ch8_상속.vcxproj -> C:\Users\ncc_admin\Desktop\C++\ch8_상속\Debug\ch8_상속.exe
