@@ -70,4 +70,3 @@ int main() {
 	cout << p->getArea() << endl << q->getArea() << endl;
 }
 
-

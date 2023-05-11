@@ -18,5 +18,8 @@
     <ClCompile Include="포인터와동적.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="함수의 인자 전달 방식(값에의한 주소에 의한).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
