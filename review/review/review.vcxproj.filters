@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="포인터와동적.cpp">
+    <ClCompile Include="1포인터와동적.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="함수의 인자 전달 방식(값에의한 주소에 의한).cpp">
+    <ClCompile Include="2함수의 인자 전달 방식%28값에의한 주소에 의한%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3참조변수선언참조에의한호출.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
