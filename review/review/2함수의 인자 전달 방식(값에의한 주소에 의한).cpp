@@ -28,4 +28,5 @@ int main() {
 	cout << c << d << endl;
 	swap_address(&c, &d);
 	cout << c << d << endl;
+	swap_address(&c, &d)
 }
