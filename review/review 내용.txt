@@ -29,3 +29,7 @@ SmartTV(string ipAddr, int size) :WideTV(size, true) {
 상속하는 방법
 
 가상상속
+
+오버라이딩(가상함수 9_2~9_5 코드 분석)
+
+추상클래스(실습 9_6 코드 분석)
